@@ -1,0 +1,2 @@
+# phoneminator
+for automating conlanging
